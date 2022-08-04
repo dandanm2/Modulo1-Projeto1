@@ -1,2 +1,5 @@
 # Modulo1-Projetos
-Primeiro projeto - módulo 1 - Blue Edtech
+Projects developed in the programming logic module at BlueEdtech, using JavaScript.
+
+
+

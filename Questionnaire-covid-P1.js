@@ -59,7 +59,6 @@ if (resultado == "SIM") {
     else if (cont === 5)
         console.log(`Prezado ${nome} , procure um médico urgente.`);
 
-
 }   else
 console.log(`Agende sua vacina no posto de saúde mais próximo.`);
   
